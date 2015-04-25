@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bogopoo</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_label_start">START</string>
+    <string name="btn_label_stop">STOP</string>
+
+</resources>
